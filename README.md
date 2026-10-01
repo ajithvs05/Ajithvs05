@@ -1,76 +1,38 @@
-# 👋 Hi, I'm Ajith VS
+# Hi, I'm Ajith V S 👋
 
-🎓 **Diploma Computer Engineering Student**
-💻 Aspiring Software Developer
-🌱 Currently learning **C, Python, Java, HTML & CSS**
-🤖 Exploring **AI, Machine Learning & Web Development**
-🚀 Building projects and learning something new every day
+🎓 **Diploma in Computer Engineering Student**
+💻 Aspiring Software Developer | Tech Enthusiast
 
----
+## 🚀 About Me
 
-## 🛠️ Tech Stack
+* 🎓 Currently pursuing a Diploma in Computer Engineering (3rd Year).
+* 💡 Interested in Software Development, AI and Machine Learning.
+* 🌱 Learning Python, C, JavaScript and GitHub.
+* 🔨 Building practical projects to improve my coding skills.
+* 🎯 Aspiring to become a Software Developer.
 
-### Programming
+## 🛠️ Skills & Technologies
 
-`C` `Python` `Java`
+* **Languages:** Python, C, JavaScript
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** Web Development, AI & Machine Learning
 
-### Web Development
+## 📂 My Projects
 
-`HTML` `CSS` `JavaScript`
+* 🚀 StudentHub – A student-focused project.
+* 🧮 Java Calculator – A calculator application built using Java.
 
-### Tools
+## 📊 GitHub Goals
 
-`Git` `GitHub` `VS Code`
-
----
-
-## 📚 Currently Learning
-
-* Programming fundamentals
-* Web development
-* Data structures and algorithms
-* AI & Machine Learning
-* Git & GitHub
-
----
-
-## 🚀 Featured Projects
-
-📚 **Study Planner**
-A simple web application to organize daily study tasks and track progress.
-
-🧮 **Java Calculator**
-A beginner-friendly calculator project created while learning Java.
-
-🌐 **HTML Projects**
-Simple websites and web projects created to improve my frontend skills.
-
-🐍 **Python Projects**
-Small Python projects for practicing programming and problem solving.
-
----
-
-## 📊 My GitHub Journey
-
-💡 Learning → 🛠️ Building → 🚀 Improving
-
-I believe that **consistent practice and real projects are the best way to learn programming.**
-
----
-
-## 🎯 Goals
-
-* Build useful real-world projects
-* Improve programming skills
-* Learn new technologies
-* Contribute to open-source projects
-* Prepare for internships and future software development opportunities
-
----
+* Build real-world projects.
+* Improve problem-solving skills.
+* Contribute to open-source projects.
+* Gain practical industry experience.
 
 ## 📫 Connect With Me
 
-🔗 **GitHub:** [@ajithvs05](https://github.com/ajithvs05)
+* **GitHub:** [@ajithvs05](https://github.com/ajithvs05)
 
-⭐ Thanks for visiting my profile!
+---
 
+⭐ *Always learning, building and improving!*
