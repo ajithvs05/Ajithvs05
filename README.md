@@ -1,7 +1,7 @@
 # Hi, I'm Ajith V S 👋
 
  **Diploma in Computer Engineering Student**
-💻 Aspiring Software Developer | Tech Enthusiast
+ Aspiring Software Developer | Tech Enthusiast
 
 ##   About Me
 
